@@ -1,0 +1,14 @@
+[project]
+name = "time-rows-analysis"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "matplotlib>=3.10.8",
+    "numpy>=2.4.4",
+    "openpyxl>=3.1.5",
+    "pandas>=3.0.2",
+    "scikit-learn>=1.8.0",
+    "tensorflow>=2.21.0",
+]
